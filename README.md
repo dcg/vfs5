@@ -40,9 +40,9 @@ This is an emulator for the VFS5 Vox footswitch for their own amps running on a 
  - Supports 5 Cherry Style keyboard switches (press-fit)
  - Supports 4 5mm LEds (press-fit)
  - Supports 5x7 PCB (press-fit)
+<img src="Case1.jpg" width="40%">
+<img src="Case2.jpg" width="40%">.
 
- ![Case1](Case1.jpg | width=100)
- ![Case2](Case2.jpg | width=100)
 #### Known Bugs
   - PCB holder a bit to small => the PCB needs to be trimmed by 1mm
   - Screw-holes to small to fit a nut => the case fits okayish without screws, otherwise use longer screws so the nut is on the top. 
